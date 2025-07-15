@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dos2unix:*)",
+      "Bash(bash:*)",
+      "Bash(./wt.sh:*)",
+      "Bash(ls:*)"
+    ],
+    "deny": []
+  }
+}
